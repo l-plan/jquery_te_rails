@@ -74,5 +74,6 @@ Run rake to start the test-suite.
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
-[![Gem Version](https://badge.fury.io/rb/jquery_te_rails.svg)](https://badge.fury.io/rb/jquery_te_rails)
+
+[![GitHub version](https://badge.fury.io/gh/l-plan%2Fjquery_te_rails.svg)](https://badge.fury.io/gh/l-plan%2Fjquery_te_rails)
 
